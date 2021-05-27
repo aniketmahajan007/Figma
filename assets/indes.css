@@ -1,0 +1,55 @@
+#section3 #girl_sit{
+    position: absolute;
+    width: 600px;
+    margin-top:13em;
+    margin-left: 6em;
+}
+#section3 #wave{
+    width: 100%;
+    margin-top:6em;
+}
+#section2 #img1{
+    position: absolute;
+    width: 600px;
+    left: 5em;
+    margin-top: 7em;
+}
+#section2 #right_div{
+    float: right;
+    margin-top: 14em;
+    margin-right: 8em;
+}
+#section2 #right_div h1{
+    font-size: 30px;
+    color:#6738c3;
+}
+#section2 #right_div p{
+
+}
+ul {
+    list-style-type: none;
+    margin-top: 1em;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    margin-right: 4em;
+}
+ul li{
+    float: left;
+    margin-left: 6em;
+}
+ul li a{
+    color:white;
+    text-decoration: none;
+}
+#heading{
+    margin-left: 4em;;
+}
+#heading h1{
+    font-size: 70px
+}
+#heading p{
+    color: #6738c3;
+    font-size: 26px;
+    font-weight: 600;
+}
